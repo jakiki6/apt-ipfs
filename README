@@ -1,0 +1,5 @@
+This is a simple way to create an ipfs based apt repository.
+
+Run the include.sh script to include packages and the activate.sh script to activate it.
+If you want to share your collection, just run update.sh and send the string to your friend.
+He can add it to his apt source file.
